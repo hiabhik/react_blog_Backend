@@ -1,0 +1,27 @@
+
+[
+    {
+        "id": "2",
+        "title": "Gun used by 6-year-old who shot teacher in Virginia was 'secured,' family's lawyer says - USA TODAY",
+        "description": "The family of the child who shot a teacher in Virginia said the gun used was \"secured.\" Authorities haven't said how the 6-year-old got ahold of it.",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/19/USAT/63944f43-21cd-4760-992d-e38961053c96-AP23010039032738.jpg?auto=webp&crop=4046,2276,x0,y205&format=pjpg&width=1200",
+        "publishedAt": "2023-01-20T01:07:30Z",
+        "tag": "General"
+    },
+    {
+        "id": "3",
+        "title": "Billions of celestial objects captured in new survey of the Milky Way - KSL.com",
+        "description": "A new survey of the Milky Way galaxy has unveiled 3.3 billion celestial objects.",
+        "urlToImage": "https://img.ksl.com/slc/2911/291154/29115458.jpg?filter=kslv2/responsive_story_lg",
+        "publishedAt": "2023-01-20T00:52:40Z",
+        "tag": "General"
+    },
+    {
+        "id": "4",
+        "title": "Pioneering Apple Lisa goes “open source” thanks to Computer History Museum - Ars Technica",
+        "description": "Lisa OS 3.1's 1984 source Pascal code now available under a non-commercial license.",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/apple_lisa_hero2-760x380.jpg",
+        "publishedAt": "2023-01-20T00:20:42Z",
+        "tag": "General"
+    }
+]

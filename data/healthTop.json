@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Why Do We Remember Emotional Events Better Than Non-emotional Ones? - Neuroscience News",
+    "description": "Researchers identified a mechanism within the brain that tags information with emotional association for enhanced memory. High-frequency brain waves in the amygdala and hippocampus are critical for enhancing emotional memories.",
+
+    "urlToImage": "https://neurosciencenews.com/files/2023/01/emotional-memory-neurosicnes-public.jpg",
+    "publishedAt": "2023-01-19T15:43:39Z",
+    "tag": "Health"
+  },
+  {
+    "id": "2",
+    "title": "Doctors monitor rise in STDs, including congenital syphilis - KOMO News",
+    "description": "Doctors have been monitoring a rise in certain sexually transmitted diseases, including syphilis, a bacterial infection that comes with a range of symptoms.",
+
+    "urlToImage": "https://komonews.com/resources/media/1543a1b9-9a72-40be-9f84-fd4005551ef2-large16x9_std2.JPG?1674142374605",
+    "publishedAt": "2023-01-19T15:33:48Z",
+    "tag": "Health"
+  },
+  {
+    "id": "3",
+    "title": "Research Shows Gut Bacteria Affect Brain Health – Reveals New Approach to Treating Alzheimer's Disease - SciTechDaily",
+    "description": "Findings from research on mice suggest a new approach to treating Alzheimer’s and other neurodegenerative diseases. A growing pile of evidence indicates that the tens of trillions of microbes that normally live in our intestines — the so-called gut microbiome…",
+
+    "urlToImage": "https://scitechdaily.com/images/Active-Brain-Scientific-Concept-Illustration.jpg",
+    "publishedAt": "2023-01-19T14:52:25Z",
+    "tag": "Health"
+  },
+  {
+    "id": "4",
+    "title": "People who had COVID-19 at much greater risk of dying for at least 18 months - msnNOW",
+    "description": "Risk of death in Covid patients was up to 81-fold higher in the acute phase and five-fold higher in the post-acute phase. The post People who had COVID-19 at much greater risk of dying for at least 18 months appeared first on Talker.",
+
+    "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16wcAc.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=349&y=280",
+    "publishedAt": "2023-01-19T14:04:46Z",
+    "tag": "Health"
+  }
+]
